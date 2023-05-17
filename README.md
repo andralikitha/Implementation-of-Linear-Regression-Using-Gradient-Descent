@@ -118,18 +118,31 @@ ion = 70,000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 Profit prediction graph:
+
 ![229297745-35008d99-cc02-477b-a097-5efbcb0a30c8](https://user-images.githubusercontent.com/131592130/234219655-30b607df-b46d-48c5-8b47-48da405a487e.png)
+
 Compute cost value:
+
 ![229297766-cdde2e4f-cf10-46d6-88b6-b8f1f04ab4d8](https://user-images.githubusercontent.com/131592130/234219988-526b63e4-0088-46c1-bbab-739e0786e2a5.png)
+
 h(x) value:
+
 ![229529799-c33628fc-db12-48e8-88af-cfbbf83ea00e](https://user-images.githubusercontent.com/131592130/234226622-86c1d943-7513-4e98-94f4-ef84db32b762.png)
+
 Cost function using Gradient Descent graph:
+
 ![229297805-9aec7927-1b4a-4631-a2dc-d0aec4b9ca50](https://user-images.githubusercontent.com/131592130/234226849-43ec1aa6-6351-40ce-9122-f0f5b238ec97.png)
+
 Profit prediction graph:
+
 ![229297827-9f401d64-2648-4687-b7d6-1daefcd6bcc4](https://user-images.githubusercontent.com/131592130/234227107-b1f0db35-03e1-4b11-85e7-4a1b1585ef56.png)
+
 Profit for the population 35,000:
+
 ![229297847-791ec19e-f63b-4c5d-b2d7-c497b05cf491](https://user-images.githubusercontent.com/131592130/234227322-81a5b03d-b22c-496c-8d7d-f063adc9326b.png)
+
 Profit for the population 70,000:
+
 ![229297865-0cae4b12-9cbe-4d0b-bd4c-813e902f1842](https://user-images.githubusercontent.com/131592130/234227536-95e1e224-3ae6-4e80-9568-56d2904001f0.png)
 
 
